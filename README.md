@@ -46,15 +46,15 @@
 
 **Skills:**
 
--Modeling a given problem as a causal graph
--Statistical Modelling and Inference Extraction
--Building model pipelines and orchestration
+- Modeling a given problem as a causal graph
+- Statistical Modelling and Inference Extraction
+- Building model pipelines and orchestration
 
 
 **Knowledge:**
--Knowledge about casual graph and statistical learning
--Hypothesis Formulation and Testing 
--Statistical Analysis
+- Knowledge about casual graph and statistical learning
+- Hypothesis Formulation and Testing 
+- Statistical Analysis
 
  <a name='refs'></a>
  
